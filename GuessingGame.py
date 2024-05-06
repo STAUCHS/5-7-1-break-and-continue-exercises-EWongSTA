@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------
-# Name:
-# Purpose:
-# Author:     Last Name. First Initial
-# Created:    dd/mm/yyyy
+# Name:       Guessing game
+# Purpose:    guessing game with only 5 tries
+# Author:     Wong. E
+# Created:    06/05/2024
 #-------------------------------------------------------------------------
 
