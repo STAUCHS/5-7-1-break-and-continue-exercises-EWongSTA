@@ -1,8 +1,8 @@
 #-------------------------------------------------------------------------
-# Name:       
-# Purpose:
-# Author:     Last Name. First Initial
-# Created:    dd/mm/yyyy
+# Name:       adding 5-20
+# Purpose:    adds numbres from 5 - 20 inclusive
+# Author:     Wong. E
+# Created:    06/05/2024
 #-------------------------------------------------------------------------
 x = 4
 sum = 0

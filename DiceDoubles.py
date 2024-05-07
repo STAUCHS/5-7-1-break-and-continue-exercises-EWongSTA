@@ -7,6 +7,8 @@
 
 import random
 
+print("HERE COME THE DICE!")
+
 while True:
  roll_1 = random.randrange(1, 7)
  roll_2 = random.randrange(1, 7)
